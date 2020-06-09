@@ -1,0 +1,45 @@
+1. Introduction
+
+    A brief introduction to your website idea. State the goals of the project.
+
+	-Spotify recommendation site. Visit a friend or other user's website and recommend a song
+	-The Spotify API is used to to post a link to that song on a user's profile
+
+    The values / benefits (tangible and intangible) this application can bring to a company/organization/end-user.
+
+	-the value provided is that friends can enjoy sharing songs with eachother
+
+2. Expected List of Features
+
+    A brief list of features that you expect your website to support.
+
+	-login
+	-search song and select it to be posted on another user's page
+	-listen to a suggested song, which moves song to from a "waiting" page to a "listened to" page
+
+    Brief justifications for including these features.
+
+	-login: separate profiles will be required for users to log into
+	-search feature: required to be able to search spotify for song to 
+	-listen status: which page the song recommendation is on informs the person suggesting the song  of whether it has been listened to
+
+3. Market Survey
+
+    Do a survey of the Web to find about five web sites that might have similar ideas as yours.
+    Briefly compare the features of these applications with your application idea.
+
+	-Doesn't seem like any site accomplishes this functionality exactly
+	-Spotify used to have a recommendation feature (messaging) but removed it
+
+4. References
+
+    Give references to any material / websites / books etc. relevant to your application idea
+
+	-Spotify Web API: https://developer.spotify.com/documentation/web-api/
+
+    Give the links to the websites relevant to your idea, that you listed in the section above.
+
+	-https://www.wired.com/story/how-to-share-songs-on-spotify-apple-music-google-play-music/
+	-https://community.spotify.com/t5/Closed-Ideas/Song-Recommendations-from-Friends/idi-p/1632708
+	-https://community.spotify.com/t5/Closed-Ideas/Social-Bring-back-Inbox-Messaging-with-Notifications/idi-p/1591025
+	-https://www.quora.com/Whats-the-best-way-to-recommend-send-music-to-friends
